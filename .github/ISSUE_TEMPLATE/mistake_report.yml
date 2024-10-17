@@ -1,0 +1,36 @@
+name: Отчет об ошибке
+description: Отпишись, чтобы помочь с домашкой
+title: Ошибка в номере ... 
+labels: Ошибка
+assignees:
+  - IBIBENDUM
+body:
+  - type: dropdown
+    attributes:
+      label: Предмет
+      description: Выбери предмет, в задании которого допущена ошибка.
+      options:
+        - Матан
+        - Дифуры
+        - Анмех
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Номер с ошибкой
+      description: В каком номере допущена ошибка?
+      placeholder: Например, 2.13
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Описание ошибки
+      description: Напиши кратко в чем заключается ошибка.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Верное решение
+      description: Напиши свое решение.
+    validations:
+      required: true
