@@ -1,6 +1,6 @@
 name: Отчет об ошибке
 description: Отпишись, чтобы помочь с домашкой
-title: Ошибка в номере ... 
+title: '[Предмет] Ошибка в номере ...' 
 labels: Ошибка
 assignees:
   - IBIBENDUM
