@@ -3,6 +3,7 @@
 ## Домашки 
 ### Матан
 - [Задание 1](./3_sem/matan/matan_1_task_edik_pidr.pdf)
+- [Задание 2](./3_sem/matan/matan_2_task_edik_pidr.pdf)
 ### Анмех
 - [Задание 1](./3_sem/anmeh/anmeh_1_task_edik_pidr.pdf)
 ---
