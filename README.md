@@ -6,6 +6,7 @@
 - [Задание 2](./3_sem/matan/matan_2_task_edik_pidr.pdf)
 ### Анмех
 - [Задание 1](./3_sem/anmeh/anmeh_1_task_edik_pidr.pdf)
+- [Задание 2](./3_sem/anmeh/anmeh_2_task_edik_pidr.pdf)
 ### Дифуры
 - [Задание 2](./3_sem/difur/difur_2_task_edik_pidr.pdf)
 ---
