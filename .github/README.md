@@ -36,11 +36,13 @@ cd mipt_notes
     ```console
     git pull
     ```
- 2. Обязательно проверьте, нет ли открытых **Issue**. Они могут содержать важные комментарии или исправления. Список Issue доступен [здесь](./issues) или на вкладке **Issues** репозитория.
+ 2. Обязательно проверьте, нет ли открытых **Issue**. Они могут содержать
+    важные комментарии или исправления. Список Issue доступен [здесь][issues_link] или
+    на вкладке **Issues** репозитория.
 
 ## 🤝 Как сообщить об ошибке?
 Если вы обнаружили ошибку, создавайте
-[issue](https://github.com/IBIBENDUM/mipt_notes/issues/new?assignees=IBIBENDUM&labels=%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0&projects=&template=mistake_report.yml&title=%5B%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%5D+%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0+%D0%B2+%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B5+...)
+[issue][issue_template_link]
 или пишите мне в [личные сообщения](#tg)
 
 ## ⭐ Понравился проект?
@@ -66,3 +68,6 @@ cd mipt_notes
     >
 </a>
 </p>
+
+[issue_template_link]: https://github.com/IBIBENDUM/mipt_notes/issues/new?assignees=IBIBENDUM&labels=%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0&projects=&template=mistake_report.yml&title=%5B%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%5D+%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0+%D0%B2+%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B5+...
+[issues_link]: https://github.com/IBIBENDUM/mipt_notes/issues
