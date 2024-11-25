@@ -25,4 +25,4 @@ jobs:
           SCRIPT_PAT: ${{ secrets.script_pat }}
           REPO_NAME: ${{ github.repository }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
-        run: python .github/workflows/mistake_title_formatter.py
+        run: python .github/workflows/mistake_format_title.py
