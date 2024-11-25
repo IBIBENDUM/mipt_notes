@@ -5,6 +5,11 @@ labels: Ошибка
 assignees:
   - IBIBENDUM
 body:
+  - type: markdown
+    attributes:
+      value: |
+        > Заголовок для этого отчета будет **автоматически сгенерирован**.  
+        > Вам не нужно заполнять поле заголовка вручную. Просто выберите предмет и укажите номер с ошибкой.
   - type: dropdown
     attributes:
       label: Предмет
@@ -19,7 +24,7 @@ body:
     attributes:
       label: Номер с ошибкой
       description: В каком номере допущена ошибка?
-      placeholder: Например, 2.13
+      placeholder: Например, 1.23
     validations:
       required: true
   - type: textarea
@@ -33,4 +38,4 @@ body:
       label: Верное решение
       description: Напиши свое решение.
     validations:
-      required: true
+      required: false
