@@ -10,13 +10,13 @@
 
 ## 📖 Домашки
 - **Кратные интегралы и теория поля**
-    - [Задание 1](./3_sem/matan/matan_1_task_edik_pidr.pdf)
-    - [Задание 2](./3_sem/matan/matan_2_task_edik_pidr.pdf)
+    - [Задание 1](../3_sem/matan/matan_1_task_edik_pidr.pdf)
+    - [Задание 2](../3_sem/matan/matan_2_task_edik_pidr.pdf)
 - **Аналитическая механика**
-    - [Задание 1](./3_sem/anmeh/anmeh_1_task_edik_pidr.pdf)
-    - [Задание 2](./3_sem/anmeh/anmeh_2_task_edik_pidr.pdf)
+    - [Задание 1](../3_sem/anmeh/anmeh_1_task_edik_pidr.pdf)
+    - [Задание 2](../3_sem/anmeh/anmeh_2_task_edik_pidr.pdf)
 - **Дифференциальные уравнения**
-    - [Задание 2](./3_sem/difur/difur_2_task_edik_pidr.pdf)
+    - [Задание 2](../3_sem/difur/difur_2_task_edik_pidr.pdf)
 
 ## 🛠️ Как использовать?
 > [!TIP]
