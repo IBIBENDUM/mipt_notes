@@ -1,4 +1,4 @@
-name: Update Issue Title
+name: Update Issue Title and Label
 
 on:
   issues:
