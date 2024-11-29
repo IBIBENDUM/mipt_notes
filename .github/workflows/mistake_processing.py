@@ -53,5 +53,19 @@ def main():
 
     print(f"Заголовок обновлен на: {new_title}")
 
+     # Добавляем метку с названием предмета
+    current_labels = issue.get("labels", [])
+    current_label_names = [label["name"] for label in current_labels]
+
+    if subject not in current_label_names:
+        labels_url = f"{issue_url}/labels"
+        label_response = requests.post(
+            labels_url,
+            headers=headers,
+            json={"labels": [subject]}
+        )
+        label_response.raise_for_status()
+        print(f"Метка '{subject}' добавлена к issue #{issue_number}")
+
 if __name__ == "__main__":
     main()
