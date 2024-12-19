@@ -4,6 +4,7 @@ title: '[Предмет] Ошибка в номере ...'
 labels: Ошибка
 assignees:
   - IBIBENDUM
+  - nniikon
 body:
   - type: markdown
     attributes:
