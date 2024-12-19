@@ -19,6 +19,7 @@ body:
         - Матан
         - Дифуры
         - Анмех
+        - Физика
     validations:
       required: true
   - type: input
