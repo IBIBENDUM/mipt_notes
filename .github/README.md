@@ -24,6 +24,9 @@
     - [Задание 2](../3_sem/phys/phys_2_task_edik_pidr.pdf)
 
 ## 4 семестр
+- **Гармонический анализ**
+    > Автор решения домашки по матану [@qwerfiko](https://t.me/qwerfiko)
+    - [Задание 1](../4_sem/matan/matan_1_task_edik_pidr.pdf)
 - **Дифференциальные уравнения**
     > Автор решения домашки по дифурам [@mskfreede](https://t.me/mskfreede)
     - [Задание 1](../4_sem/difur/difur_1_task_edik_pidr.pdf)
