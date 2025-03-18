@@ -33,6 +33,9 @@
     - [Задание 2](../4_sem/difur/difur_2_task_edik_pidr.pdf)
 - **Аналитическая механика**
     - [Задание 1](../4_sem/anmeh/anmeh_1_task_edik_pidr.pdf)
+    > Автор решения домашки по анмеху [@aidenfmunro](https://t.me/aidenfmunro)
+    - [Задание 1 by Aiden Fucking Munro](../4_sem/anmeh/anmeh_1_task_edik_pidr_afm.pdf)
+
 
 ## 🛠️ Как использовать?
 > [!TIP]
