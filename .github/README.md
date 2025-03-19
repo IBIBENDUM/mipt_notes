@@ -35,7 +35,9 @@
     - [Задание 1](../4_sem/anmeh/anmeh_1_task_edik_pidr.pdf)
     > Автор решения домашки по анмеху [@aidenfmunro](https://t.me/aidenfmunro)
     - [Задание 1 by Aiden Fucking Munro](../4_sem/anmeh/anmeh_1_task_edik_pidr_afm.pdf)
-
+- **Общая физика. Оптика**
+    > Автор решения домашки по физике [@nikonovski](https://t.me/nikonovski)
+    - [Задание 1](../4_sem/phys/phys_1_task_edik_pidr.pdf)
 
 ## 🛠️ Как использовать?
 > [!TIP]
