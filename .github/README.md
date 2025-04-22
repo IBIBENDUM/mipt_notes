@@ -9,7 +9,9 @@
 </p>
 
 ## 📖 Домашки
-### 3 семестр
+<details>
+<summary><strong>3 семестр</strong></summary>
+
 - **Кратные интегралы и теория поля**
     - [Задание 1](../3_sem/matan/matan_1_task_edik_pidr.pdf)
     - [Задание 2](../3_sem/matan/matan_2_task_edik_pidr.pdf)
@@ -23,10 +25,16 @@
     - [Задание 1](../3_sem/phys/phys_1_task_edik_pidr.pdf)
     - [Задание 2](../3_sem/phys/phys_2_task_edik_pidr.pdf)
 
-## 4 семестр
+
+</details>
+
+<details open>
+<summary><strong>4 семестр</strong></summary>
+
 - **Гармонический анализ**
     > Автор решения домашки по матану [@qwerfiko](https://t.me/qwerfiko)
     - [Задание 1](../4_sem/matan/matan_1_task_edik_pidr.pdf)
+    - [Задание 2](../4_sem/matan/matan_2_task_edik_pidr.pdf)
 - **Дифференциальные уравнения**
     > Автор решения домашки по дифурам [@mskfreede](https://t.me/mskfreede)
     - [Задание 1](../4_sem/difur/difur_1_task_edik_pidr.pdf)
@@ -38,6 +46,9 @@
 - **Общая физика. Оптика**
     > Автор решения домашки по физике [@nikonovski](https://t.me/nikonovski)
     - [Задание 1](../4_sem/phys/phys_1_task_edik_pidr.pdf)
+
+
+</details>
 
 ## 🛠️ Как использовать?
 > [!TIP]
