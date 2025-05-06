@@ -47,7 +47,7 @@
 - **Общая физика. Оптика**
     > Автор решения домашки по физике [@nikonovski](https://t.me/nikonovski)
     - [Задание 1](../4_sem/phys/phys_1_task_edik_pidr.pdf)
-    > Автор решения домашки по физике [@Fromcountry](https://t.me/Fromcountry)
+    > Ну и хуйня от [@Fromcountry](https://t.me/Fromcountry)
     - [Задание 2](../4_sem/phys/phys_2_task_edik_pidr.pdf)
 
 
