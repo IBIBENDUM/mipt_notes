@@ -58,6 +58,9 @@
 - **Теория функций комплексного переменного**
   > Автор решения домашки по тфкп [@mskfreede](https://t.me/mskfreede)
   - [Задание 1](../5_sem/tfkp/tfkp_1_task_edik_pidr.pdf)
+- **Общая физика. Квантовая микрофизика**
+  > Автор решения домашки по физике [@nikonovski](https://t.me/nikonovski)
+  - [Задание 1 (4/7)](../5_sem/phys/phys_1_task_edik_pidr.pdf)
 
 </details>
 
