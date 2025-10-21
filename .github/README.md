@@ -61,6 +61,9 @@
 - **Общая физика. Квантовая микрофизика**
   > Автор решения домашки по физике [@nikonovski](https://t.me/nikonovski)
   - [Задание 1 (5/7)](../5_sem/phys/phys_1_task_edik_pidr.pdf)
+- **Теория поля**
+  > Ну и хуйня от [@Fromcountry](https://t.me/Fromcountry)
+  - [Задание 1](../5_sem/terpel/terpel_1_task_edik_pidr.pdf)
 
 </details>
 
