@@ -58,9 +58,11 @@
 - **Теория функций комплексного переменного**
   > Автор решения домашки по тфкп [@mskfreede](https://t.me/mskfreede)
   - [Задание 1](../5_sem/tfkp/tfkp_1_task_edik_pidr.pdf)
+  - [Задание 2](../5_sem/tfkp/tfkp_2_task_edik_pidr.pdf)
 - **Общая физика. Квантовая микрофизика**
   > Автор решения домашки по физике [@nikonovski](https://t.me/nikonovski)
   - [Задание 1](../5_sem/phys/phys_1_task_edik_pidr.pdf)
+  - [Задание 2](../5_sem/phys/phys_2_task_edik_pidr.pdf)
 - **Теория поля**
   > Ну и хуйня от [@Fromcountry](https://t.me/Fromcountry)
   - [Задание 1](../5_sem/terpel/terpel_1_task_edik_pidr.pdf)
