@@ -69,6 +69,15 @@
 
 </details>
 
+<details open>
+<summary><strong>6 семестр</strong></summary>
+
+- **Уравнения математической физики**
+  > Автор решения домашки по урматам [@ioanashot](https://t.me/ioanashot)
+  - [Задание 1](../6_sem/urmath/urmath_1_task_edik_pidr.pdf)
+
+</details>
+
 ## 🛠️ Как использовать?
 
 > [!TIP]
